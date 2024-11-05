@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ecogiiza.github.io/Ech/sitemap_index.txt
+Sitemap: https://ecogiiza.github.io/JRB/sitemap_index.txt
+Sitemap: https://ecogiiza.github.io/KAD/sitemap_index.txt
+Sitemap: https://ecogiiza.github.io/jtY/sitemap_index.txt
